@@ -1,5 +1,5 @@
-# Hackintosh-13400f-b760m
-Opencore Hackintosh on Gen 13th i5-13400F and Asrock B760M Pro RS/D4
+# Hackintosh on Intel 13th gen i5-13400F and ASRock B760M Pro RS/D4
+Opencore Bootloader
 
 <h1>System information:</h1>
 <list>
@@ -13,11 +13,13 @@ Opencore Hackintosh on Gen 13th i5-13400F and Asrock B760M Pro RS/D4
   <li>Ethernet: Realtek RTL8125BG 2.5G</li>
 </list>
 
-<h1>UEFI Bios Preparing</h1>
+<h1>UEFI Bios Preparing:</h1>
 <list>
   <li>Reset Default UEFI</li>
   <list>Disable</list>
     <li>SafeBoot</li>
     <li>PTT</li>
     <li>Trust Plaform TPM</li>
+  <list>Enable</list>
+    <li>4G Decode</li>
 </list>
