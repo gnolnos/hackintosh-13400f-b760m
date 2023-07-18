@@ -12,3 +12,12 @@ Opencore Hackintosh on Gen 13th i5-13400F and Asrock B760M Pro RS/D4
   <li>Wifi/Bluetooth: BCM94360CS2 (from Macbook Air 2017) + adapter to NGFF M.2 key A/E</li>
   <li>Ethernet: Realtek RTL8125BG 2.5G</li>
 </list>
+
+<h1>UEFI Bios Preparing</h1>
+<list>
+  <li>Reset Default UEFI</li>
+  <list>Disable</list>
+    <li>SafeBoot</li>
+    <li>PTT</li>
+    <li>Trust Plaform TPM</li>
+</list>
