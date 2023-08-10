@@ -17,8 +17,8 @@ Opencore Bootloader
 <list>
   <li>Reset Default UEFI</li>
   <list>Disable</list>
-    <li>SafeBoot</li>
-    <li>PTT</li>
+    <li>SafeBoot (Can enable if Signed efi file and custom key to BIOS)</li>
+    <li>PTT (Can enable if enabled SafeBoot)</li>
     <li>Trust Plaform TPM</li>
   <list>Enable</list>
     <li>4G Decode</li>
